@@ -1,0 +1,20 @@
+button{
+    width:140px;
+    height:140px;
+    background:transparent;
+    border:none;
+    color:white;
+}
+span{
+    color:black;
+    font-size:60px; 
+    font-family:felix titling;
+}
+th {
+    border:8px solid antiquewhite;
+    font-family:felix titling;
+    width:150px;
+    height:150px;
+    font-size:60px; 
+    color:antiquewhite;
+}
